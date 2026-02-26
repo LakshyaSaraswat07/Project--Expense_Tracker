@@ -25,9 +25,4 @@ This application allows users to add, categorize, and track their income and exp
 ---
 
 ## 🔗 Live Demo
- https://lakshyasaraswat07.github.io/Project--Expense_Tracker/
-
----
-
-## 👨‍💻 Author
-Lakshya Saraswat
+https://lakshyasaraswat07.github.io/Project--Expense_Tracker/
